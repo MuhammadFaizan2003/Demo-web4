@@ -1,0 +1,127 @@
+body{
+    background: url('./../Images/use1.jpg')
+}
+
+.navbar {
+    background-color: rgb(46, 45, 45);
+    border-radius: 25px;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    padding: 3px;
+    margin: 3px 5px;
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li a {
+    padding: 2px; 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+.navbar input {
+    border: 2px;
+    border-radius: 14px;
+    float: right;
+    padding: 5px 26px;
+    width: 129px;
+    margin: 5px 30px;
+}
+
+.navbar li a:hover {
+    color: rgba(201, 188, 166, 0.952);
+}
+
+
+.navbar1 {
+    border: double white;
+    border-radius: 25px;
+    margin: 33px;
+    padding: 32px;
+}
+
+.navbar1 li {
+    float: left;
+    list-style: none;
+    padding: 3px;
+    margin: 3px 5px;
+}
+
+.navbar1 ul { 
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar1 ul li a #n1{ float: right;
+    
+}
+
+.navbar1 li a {
+    padding: 2px; 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar1 input {
+    border: 2px;
+    border-radius: 14px;
+    float: right;
+    padding: 5px 26px;
+    width: 129px;
+    margin: 5px 30px;
+}
+
+.navbar1 li a:hover {
+    color: rgba(201, 188, 166, 0.952);
+}
+
+ 
+.navbar2 {
+    border: double white;
+    border-radius: 25px;
+    margin: 45px;
+    padding: 32px;
+}
+
+.navbar2 li {
+    float: left;
+    list-style: none;
+    padding: 3px;
+    margin: 3px 5px;
+}
+
+.navbar2 ul { 
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar2 ul li a #n1{ float: right;
+    
+}
+
+.navbar2 li a {
+    padding: 2px; 
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar2 input {
+    border: 2px;
+    border-radius: 14px;
+    float: right;
+    padding: 5px 26px;
+    width: 129px;
+    margin: 5px 30px;
+}
+
+.navbar2 li a:hover {
+    color: rgba(201, 188, 166, 0.952);
+}
